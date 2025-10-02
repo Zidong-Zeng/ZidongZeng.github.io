@@ -12,16 +12,24 @@ redirect_from:
 Education
 ======
 * 2022.09 - 2026.06, Computer Science and Engineering College, Northeastern University, Shenyang, China.
-
+* 2026.09 - 2029.06, School of Software, Zhejiang University, Hangzhou/Ningbo, China.
 Work experience 
 ======
-* 2024.06 - now, NEUIR Lab , Shenyang, China.
-
+* 2025.06 - now, Zjunlp Lab, Hangzhou, China.
+* 2024.06 - 2025.09, NEUIR Lab, Shenyang, China.
 
 Publications
 ======
-* my paper is coming soon~
-  
-Honors
+(\*: equal contribution; †: corresponding author)
+
+* **Legal**Δ****: Enhancing Legal Reasoning in LLMs via Reinforcement Learning with Chain-of-Thought Guided Information Gain  
+  Xin Dai\*, **Buqiang Xu**\*, Zhenghao Liu†, Yukun Yan, Huiyuan Xie, Xiaoyuan Yi, Shuo Wang, Ge Yu  
+  *arXiv preprint arXiv:2508.12281*, 2025
+
+* **LegalDuet**: Learning Fine-grained Representations for Legal Judgment Prediction via a Dual-View Contrastive Learning  
+  **Buqiang Xu**\*, Xin Dai\*, Zhenghao Liu†, Huiyuan Xie, Xiaoyuan Yi, Shuo Wang, Yukun Yan, Liner Yang, Yu Gu, Ge Yu  
+  *ADMA 2025 (CCF-C)*
+
+🏆 Awards
 ======
-* 全国大学生数学竞赛总决赛二等奖
+* 2024.04 Second Prize in the National College Students' Mathematics Competition Finals
