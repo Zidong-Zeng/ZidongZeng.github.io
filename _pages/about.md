@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* 2022.09 - 2026.06, Computer Science and Engineering College, Northeastern University, Shenyang, China.
 * 2026.09 - 2029.06, School of Software, Zhejiang University, Hangzhou/Ningbo, China.
+* 2022.09 - 2026.06, Computer Science and Engineering College, Northeastern University, Shenyang, China.
 
 Work experience 
 ======
