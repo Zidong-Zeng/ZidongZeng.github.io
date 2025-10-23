@@ -35,7 +35,7 @@ Publications
 
 * **LegalDuet: Learning Fine-grained Representations for Legal Judgment Prediction via a Dual-View Contrastive Learning**  
   <b>Buqiang Xu</b>\*, Xin Dai\*, Zhenghao Liu†, Huiyuan Xie, Xiaoyuan Yi, Shuo Wang, Yukun Yan, Liner Yang, Yu Gu, Ge Yu  
-  *ADMA 2025 (CCF-C) Best Paper Reward*, Kyoto, Japan, 2025    
+  *ADMA 2025 (CCF-C) Best Paper Award*, Kyoto, Japan, 2025    
   [[Paper]](https://arxiv.org/abs/2401.15371)
 
 🏆 Awards
