@@ -12,7 +12,7 @@ title                    : "Zidong Zeng | 曾子东"
 title_separator          : "-"
 name                     : &name "Zidong Zeng"
 description              : &description "personal description"
-url                      : https://ZidongZeng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Zidong-Zeng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Zidong-Zeng/ZidongZeng.github.io"
 
