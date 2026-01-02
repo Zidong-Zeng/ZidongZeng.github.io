@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xubqpanda | 徐步强"
+title                    : "Zidong Zeng | 曾子东"
 title_separator          : "-"
-name                     : &name "Xubqpanda"
+name                     : &name "Zidong Zeng"
 description              : &description "personal description"
-url                      : https://Xubqpanda.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ZidongZeng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Xubqpanda/Xubqpanda.github.io"
+repository               : "Zidong-Zeng/ZidongZeng.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,16 +22,16 @@ repository               : "Xubqpanda/Xubqpanda.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Buqiang Xu"
+  name             : "Zidong Zeng"
   pronouns         : # example: "she/her"  
-  bio              : "Contact me with QQ:1227972384 or Wechat:Blue18067792208"
+  bio              : "Contact me with QQ:2652015039 or Wechat:Zeng15071102623"
   location         : "Shenyang, China"
   employer         : "Northeastern University"
   uri              : # URL
-  email            : "1227972384@qq.com" 
+  email            : "2652015039@qq.com" 
 
   # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?user=ConlL8AAAAAJ"
+  googlescholar    : ""
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
